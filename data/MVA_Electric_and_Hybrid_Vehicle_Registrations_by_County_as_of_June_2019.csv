@@ -1,0 +1,51 @@
+Fuel_Category,County,Count
+Electric,UNKNOWN,22
+Electric,ALLEGANY,23
+Electric,ANNE ARUNDEL,1085
+Electric,BALTIMORE,1088
+Electric,BALTIMORE CITY,647
+Electric,CALVERT,90
+Electric,CAROLINE,6
+Electric,CARROLL,186
+Electric,CECIL,57
+Electric,CHARLES,130
+Electric,DORCHESTER,17
+Electric,FREDERICK,476
+Electric,GARRETT,6
+Electric,HARFORD,202
+Electric,HOWARD,1412
+Electric,KENT,11
+Electric,MONTGOMERY,4386
+Electric,PRINCE GEORGES,789
+Electric,QUEEN ANNES,61
+Electric,SAINT MARYS,96
+Electric,SOMERSET,3
+Electric,TALBOT,53
+Electric,WASHINGTON,96
+Electric,WICOMICO,34
+Electric,WORCESTER,28
+Plug-In Hybrid,UNKNOWN,16
+Plug-In Hybrid,ALLEGANY,26
+Plug-In Hybrid,ANNE ARUNDEL,985
+Plug-In Hybrid,BALTIMORE,1126
+Plug-In Hybrid,BALTIMORE CITY,466
+Plug-In Hybrid,CALVERT,145
+Plug-In Hybrid,CAROLINE,17
+Plug-In Hybrid,CARROLL,206
+Plug-In Hybrid,CECIL,76
+Plug-In Hybrid,CHARLES,160
+Plug-In Hybrid,DORCHESTER,28
+Plug-In Hybrid,FREDERICK,593
+Plug-In Hybrid,GARRETT,5
+Plug-In Hybrid,HARFORD,279
+Plug-In Hybrid,HOWARD,1030
+Plug-In Hybrid,KENT,21
+Plug-In Hybrid,MONTGOMERY,3157
+Plug-In Hybrid,PRINCE GEORGES,813
+Plug-In Hybrid,QUEEN ANNES,73
+Plug-In Hybrid,SAINT MARYS,154
+Plug-In Hybrid,SOMERSET,7
+Plug-In Hybrid,TALBOT,74
+Plug-In Hybrid,WASHINGTON,153
+Plug-In Hybrid,WICOMICO,66
+Plug-In Hybrid,WORCESTER,66
